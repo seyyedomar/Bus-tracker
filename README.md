@@ -1,2 +1,6 @@
 # Bus-tracker
-A bust tracking system
+A bus tracking system
+
+Student Name - Ruzaik Ahamed Seyyed Omar
+Student Id - COBSCCOMP24.1P-006
+Coventry Id - 15386560
