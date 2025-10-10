@@ -1,0 +1,409 @@
+[
+  {
+    "id": "BUS001",
+    "registrationNumber": "NA-1234",
+    "type": "Semi-Luxury",
+    "capacity": 52,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "speed": 0,
+      "heading": 45,
+      "timestamp": "2025-10-08T06:30:00Z"
+    },
+    "lastUpdated": "2025-10-08T06:30:00Z"
+  },
+  {
+    "id": "BUS002",
+    "registrationNumber": "WP-5678",
+    "type": "Luxury",
+    "capacity": 45,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.8484,
+      "longitude": 79.9267,
+      "speed": 45,
+      "heading": 180,
+      "timestamp": "2025-10-08T07:15:00Z"
+    },
+    "lastUpdated": "2025-10-08T07:15:00Z"
+  },
+  {
+    "id": "BUS003",
+    "registrationNumber": "CP-9012",
+    "type": "Normal",
+    "capacity": 60,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "speed": 0,
+      "heading": 0,
+      "timestamp": "2025-10-08T05:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T05:00:00Z"
+  },
+  {
+    "id": "BUS004",
+    "registrationNumber": "NA-3456",
+    "type": "Semi-Luxury",
+    "capacity": 52,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "speed": 50,
+      "heading": 270,
+      "timestamp": "2025-10-08T08:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T08:00:00Z"
+  },
+  {
+    "id": "BUS005",
+    "registrationNumber": "WP-7890",
+    "type": "Luxury",
+    "capacity": 45,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "maintenance",
+    "currentLocation": null,
+    "lastUpdated": "2025-10-07T18:00:00Z"
+  },
+  {
+    "id": "BUS006",
+    "registrationNumber": "CP-2468",
+    "type": "Normal",
+    "capacity": 60,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 8.5000,
+      "longitude": 80.0500,
+      "speed": 60,
+      "heading": 0,
+      "timestamp": "2025-10-08T09:30:00Z"
+    },
+    "lastUpdated": "2025-10-08T09:30:00Z"
+  },
+  {
+    "id": "BUS007",
+    "registrationNumber": "SG-1357",
+    "type": "Semi-Luxury",
+    "capacity": 50,
+    "operator": "Southern Coastal Express",
+    "operatorId": "OP004",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.0535,
+      "longitude": 80.2210,
+      "speed": 0,
+      "heading": 90,
+      "timestamp": "2025-10-08T07:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T07:00:00Z"
+  },
+  {
+    "id": "BUS008",
+    "registrationNumber": "NA-8642",
+    "type": "Luxury",
+    "capacity": 48,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.0000,
+      "longitude": 80.2000,
+      "speed": 55,
+      "heading": 45,
+      "timestamp": "2025-10-08T06:45:00Z"
+    },
+    "lastUpdated": "2025-10-08T06:45:00Z"
+  },
+  {
+    "id": "BUS009",
+    "registrationNumber": "WP-9753",
+    "type": "Normal",
+    "capacity": 58,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.4000,
+      "longitude": 80.0000,
+      "speed": 50,
+      "heading": 180,
+      "timestamp": "2025-10-08T08:20:00Z"
+    },
+    "lastUpdated": "2025-10-08T08:20:00Z"
+  },
+  {
+    "id": "BUS010",
+    "registrationNumber": "CP-1597",
+    "type": "Semi-Luxury",
+    "capacity": 52,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 9.0000,
+      "longitude": 80.0200,
+      "speed": 65,
+      "heading": 0,
+      "timestamp": "2025-10-08T11:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T11:00:00Z"
+  },
+  {
+    "id": "BUS011",
+    "registrationNumber": "SG-3698",
+    "type": "Normal",
+    "capacity": 60,
+    "operator": "Southern Coastal Express",
+    "operatorId": "OP004",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.2000,
+      "longitude": 80.3500,
+      "speed": 40,
+      "heading": 90,
+      "timestamp": "2025-10-08T09:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T09:00:00Z"
+  },
+  {
+    "id": "BUS012",
+    "registrationNumber": "NA-7531",
+    "type": "Luxury",
+    "capacity": 45,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "speed": 0,
+      "heading": 45,
+      "timestamp": "2025-10-08T10:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T10:00:00Z"
+  },
+  {
+    "id": "BUS013",
+    "registrationNumber": "WP-8529",
+    "type": "Semi-Luxury",
+    "capacity": 50,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "inactive",
+    "currentLocation": null,
+    "lastUpdated": "2025-10-07T20:00:00Z"
+  },
+  {
+    "id": "BUS014",
+    "registrationNumber": "CP-7412",
+    "type": "Normal",
+    "capacity": 58,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.8000,
+      "longitude": 80.4000,
+      "speed": 58,
+      "heading": 0,
+      "timestamp": "2025-10-08T08:45:00Z"
+    },
+    "lastUpdated": "2025-10-08T08:45:00Z"
+  },
+  {
+    "id": "BUS015",
+    "registrationNumber": "SG-9632",
+    "type": "Luxury",
+    "capacity": 48,
+    "operator": "Southern Coastal Express",
+    "operatorId": "OP004",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 5.9549,
+      "longitude": 80.5550,
+      "speed": 0,
+      "heading": 270,
+      "timestamp": "2025-10-08T10:30:00Z"
+    },
+    "lastUpdated": "2025-10-08T10:30:00Z"
+  },
+  {
+    "id": "BUS016",
+    "registrationNumber": "NA-4862",
+    "type": "Semi-Luxury",
+    "capacity": 52,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.1000,
+      "longitude": 80.4500,
+      "speed": 52,
+      "heading": 45,
+      "timestamp": "2025-10-08T07:30:00Z"
+    },
+    "lastUpdated": "2025-10-08T07:30:00Z"
+  },
+  {
+    "id": "BUS017",
+    "registrationNumber": "WP-3691",
+    "type": "Normal",
+    "capacity": 60,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.5500,
+      "longitude": 80.1200,
+      "speed": 48,
+      "heading": 180,
+      "timestamp": "2025-10-08T09:15:00Z"
+    },
+    "lastUpdated": "2025-10-08T09:15:00Z"
+  },
+  {
+    "id": "BUS018",
+    "registrationNumber": "CP-1478",
+    "type": "Luxury",
+    "capacity": 45,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 9.6615,
+      "longitude": 80.0255,
+      "speed": 0,
+      "heading": 0,
+      "timestamp": "2025-10-08T12:00:00Z"
+    },
+    "lastUpdated": "2025-10-08T12:00:00Z"
+  },
+  {
+    "id": "BUS019",
+    "registrationNumber": "SG-7539",
+    "type": "Semi-Luxury",
+    "capacity": 50,
+    "operator": "Southern Coastal Express",
+    "operatorId": "OP004",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.1000,
+      "longitude": 80.3800,
+      "speed": 42,
+      "heading": 90,
+      "timestamp": "2025-10-08T08:45:00Z"
+    },
+    "lastUpdated": "2025-10-08T08:45:00Z"
+  },
+  {
+    "id": "BUS020",
+    "registrationNumber": "NA-9512",
+    "type": "Normal",
+    "capacity": 58,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "speed": 0,
+      "heading": 270,
+      "timestamp": "2025-10-08T11:30:00Z"
+    },
+    "lastUpdated": "2025-10-08T11:30:00Z"
+  },
+  {
+    "id": "BUS021",
+    "registrationNumber": "WP-6842",
+    "type": "Luxury",
+    "capacity": 48,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.0535,
+      "longitude": 80.2210,
+      "speed": 0,
+      "heading": 0,
+      "timestamp": "2025-10-08T10:45:00Z"
+    },
+    "lastUpdated": "2025-10-08T10:45:00Z"
+  },
+  {
+    "id": "BUS022",
+    "registrationNumber": "CP-3574",
+    "type": "Semi-Luxury",
+    "capacity": 52,
+    "operator": "Northern Transport Services",
+    "operatorId": "OP003",
+    "status": "maintenance",
+    "currentLocation": null,
+    "lastUpdated": "2025-10-06T15:00:00Z"
+  },
+  {
+    "id": "BUS023",
+    "registrationNumber": "SG-1928",
+    "type": "Normal",
+    "capacity": 60,
+    "operator": "Southern Coastal Express",
+    "operatorId": "OP004",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.0000,
+      "longitude": 80.4500,
+      "speed": 38,
+      "heading": 90,
+      "timestamp": "2025-10-08T09:45:00Z"
+    },
+    "lastUpdated": "2025-10-08T09:45:00Z"
+  },
+  {
+    "id": "BUS024",
+    "registrationNumber": "NA-6283",
+    "type": "Luxury",
+    "capacity": 45,
+    "operator": "Kandy Express Transport",
+    "operatorId": "OP001",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.9500,
+      "longitude": 79.9000,
+      "speed": 53,
+      "heading": 45,
+      "timestamp": "2025-10-08T06:15:00Z"
+    },
+    "lastUpdated": "2025-10-08T06:15:00Z"
+  },
+  {
+    "id": "BUS025",
+    "registrationNumber": "WP-4157",
+    "type": "Semi-Luxury",
+    "capacity": 50,
+    "operator": "Southern Express",
+    "operatorId": "OP002",
+    "status": "active",
+    "currentLocation": {
+      "latitude": 6.7000,
+      "longitude": 80.0500,
+      "speed": 47,
+      "heading": 180,
+      "timestamp": "2025-10-08T07:50:00Z"
+    },
+    "lastUpdated": "2025-10-08T07:50:00Z"
+  }
+]
