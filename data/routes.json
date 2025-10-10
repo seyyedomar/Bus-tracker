@@ -1,0 +1,219 @@
+[
+  {
+    "id": "R001",
+    "routeNumber": "01",
+    "name": "Colombo - Kandy",
+    "origin": {
+      "city": "Colombo",
+      "terminal": "Bastian Mawatha Bus Terminal",
+      "coordinates": {
+        "latitude": 6.9271,
+        "longitude": 79.8612
+      }
+    },
+    "destination": {
+      "city": "Kandy",
+      "terminal": "Kandy Central Bus Stand",
+      "coordinates": {
+        "latitude": 7.2906,
+        "longitude": 80.6337
+      }
+    },
+    "distance": 115,
+    "estimatedDuration": 180,
+    "stops": [
+      "Colombo",
+      "Kadawatha",
+      "Mirigama",
+      "Pasyala",
+      "Warakapola",
+      "Kegalle",
+      "Mawanella",
+      "Kadugannawa",
+      "Peradeniya",
+      "Kandy"
+    ],
+    "fareRange": {
+      "min": 180,
+      "max": 350
+    },
+    "operatingHours": {
+      "start": "04:00",
+      "end": "22:00"
+    },
+    "frequency": 30,
+    "status": "active"
+  },
+  {
+    "id": "R002",
+    "routeNumber": "02",
+    "name": "Colombo - Galle",
+    "origin": {
+      "city": "Colombo",
+      "terminal": "Maharagama Bus Terminal",
+      "coordinates": {
+        "latitude": 6.8484,
+        "longitude": 79.9267
+      }
+    },
+    "destination": {
+      "city": "Galle",
+      "terminal": "Galle Bus Stand",
+      "coordinates": {
+        "latitude": 6.0535,
+        "longitude": 80.2210
+      }
+    },
+    "distance": 116,
+    "estimatedDuration": 150,
+    "stops": [
+      "Colombo",
+      "Moratuwa",
+      "Panadura",
+      "Kalutara",
+      "Beruwala",
+      "Aluthgama",
+      "Bentota",
+      "Ambalangoda",
+      "Hikkaduwa",
+      "Galle"
+    ],
+    "fareRange": {
+      "min": 200,
+      "max": 380
+    },
+    "operatingHours": {
+      "start": "04:30",
+      "end": "21:00"
+    },
+    "frequency": 20,
+    "status": "active"
+  },
+  {
+    "id": "R003",
+    "routeNumber": "03",
+    "name": "Colombo - Jaffna",
+    "origin": {
+      "city": "Colombo",
+      "terminal": "Bastian Mawatha Bus Terminal",
+      "coordinates": {
+        "latitude": 6.9271,
+        "longitude": 79.8612
+      }
+    },
+    "destination": {
+      "city": "Jaffna",
+      "terminal": "Jaffna Central Bus Stand",
+      "coordinates": {
+        "latitude": 9.6615,
+        "longitude": 80.0255
+      }
+    },
+    "distance": 396,
+    "estimatedDuration": 480,
+    "stops": [
+      "Colombo",
+      "Kurunegala",
+      "Dambulla",
+      "Anuradhapura",
+      "Vavuniya",
+      "Kilinochchi",
+      "Jaffna"
+    ],
+    "fareRange": {
+      "min": 800,
+      "max": 1200
+    },
+    "operatingHours": {
+      "start": "05:00",
+      "end": "20:00"
+    },
+    "frequency": 60,
+    "status": "active"
+  },
+  {
+    "id": "R004",
+    "routeNumber": "04",
+    "name": "Kandy - Jaffna",
+    "origin": {
+      "city": "Kandy",
+      "terminal": "Kandy Central Bus Stand",
+      "coordinates": {
+        "latitude": 7.2906,
+        "longitude": 80.6337
+      }
+    },
+    "destination": {
+      "city": "Jaffna",
+      "terminal": "Jaffna Central Bus Stand",
+      "coordinates": {
+        "latitude": 9.6615,
+        "longitude": 80.0255
+      }
+    },
+    "distance": 285,
+    "estimatedDuration": 360,
+    "stops": [
+      "Kandy",
+      "Matale",
+      "Dambulla",
+      "Anuradhapura",
+      "Vavuniya",
+      "Kilinochchi",
+      "Jaffna"
+    ],
+    "fareRange": {
+      "min": 600,
+      "max": 950
+    },
+    "operatingHours": {
+      "start": "05:30",
+      "end": "19:00"
+    },
+    "frequency": 90,
+    "status": "active"
+  },
+  {
+    "id": "R005",
+    "routeNumber": "05",
+    "name": "Galle - Matara",
+    "origin": {
+      "city": "Galle",
+      "terminal": "Galle Bus Stand",
+      "coordinates": {
+        "latitude": 6.0535,
+        "longitude": 80.2210
+      }
+    },
+    "destination": {
+      "city": "Matara",
+      "terminal": "Matara Bus Stand",
+      "coordinates": {
+        "latitude": 5.9549,
+        "longitude": 80.5550
+      }
+    },
+    "distance": 44,
+    "estimatedDuration": 60,
+    "stops": [
+      "Galle",
+      "Habaraduwa",
+      "Koggala",
+      "Ahangama",
+      "Midigama",
+      "Weligama",
+      "Mirissa",
+      "Matara"
+    ],
+    "fareRange": {
+      "min": 80,
+      "max": 150
+    },
+    "operatingHours": {
+      "start": "04:00",
+      "end": "22:30"
+    },
+    "frequency": 15,
+    "status": "active"
+  }
+]
