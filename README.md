@@ -1,5 +1,5 @@
 # Bus-tracker
-A bus tracking system
+A bus tracking Web API System
 
 Student Name - Ruzaik Ahamed Seyyed Omar
 Student Id - COBSCCOMP24.1P-006
